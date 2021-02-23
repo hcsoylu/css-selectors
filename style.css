@@ -1,0 +1,36 @@
+h1 {
+  color: blue;
+}
+
+nav a {
+  background-color: red;
+}
+
+.lead.mb-0 a {
+  border: 5px solid yellow;
+  border-radius: 5px;
+}
+
+div.blog-main > div:nth-child(2) {
+  background-color: pink;
+}
+
+nav a:nth-child(even) {
+  border: 5px dashed green;
+}
+
+div.blog-main > div:nth-child(4) {
+  background-color: turquoise;
+}
+
+.list-unstyled.mb-0 li {
+  background-color: teal;
+}
+
+footer > p:nth-child(2) > a {
+  background-color: purple;
+}
+
+.blog-footer {
+  background-color: salmon;
+}
